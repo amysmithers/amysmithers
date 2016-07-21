@@ -1511,8 +1511,8 @@ header .logo a {
 	float: left;
 }
 .intro-info .lead {
-	text-align: left;
-	padding-left: 13rem;
+	text-align: center;
+	
 }
 
 .about-content {
@@ -1581,7 +1581,7 @@ header .logo a {
 		width: 7.8rem;
 	}
 	.intro-info .lead {
-		padding-left: 11rem;
+		
 	}
 	.about-content h3 {
 		text-align: center;
